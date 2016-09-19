@@ -1,0 +1,4 @@
+# umbraco_qiniuFileSystem
+
+这个项目是参考azure的umbraco上传控件完成的，期间也去看了qiniu的C# sdk 其中有段代码会导致从umbraco上传文件的失败，所以我重新编译出了
+一个qiniu的dll文件，在项目中应该使用这个文件。
