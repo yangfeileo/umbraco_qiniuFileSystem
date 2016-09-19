@@ -22,8 +22,8 @@ namespace FileSystemProvider.QiNiu
     public class QiNiuFileSystem : IFileSystem
     {
         //七牛云 ACCESS_KEY SECRET_KEY
-        private readonly string ACCESS_KEY = "jbjM-TpWWCB03IJT9ntq7TnNkvZ-KN14D0PlENi-";
-        private readonly string SECRET_KEY = "2fmZHfmq1QZL7lLbI5jrFLpA9-D34xhxJsnO-9iw";
+        private readonly string ACCESS_KEY = "jbjM-xxxxxxxxxxxxxxxx-KN14D0PlENi-";
+        private readonly string SECRET_KEY = "2fmZHfmqxxxxxxxxxxxxxx-D34xhxJsnO-9iw";
         private readonly string bucket = "leoyoung-bucket";
 
         private readonly string _rootPath;
