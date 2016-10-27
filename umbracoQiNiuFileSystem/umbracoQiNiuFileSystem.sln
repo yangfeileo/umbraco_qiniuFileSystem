@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umbracoQiNiuFileSystem", "umbracoQiNiuFileSystem\umbracoQiNiuFileSystem.csproj", "{12AB6781-15A1-44A0-AA1A-604EFA81DAE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiNiuFileSystem", "QiNiuFileSystem\QiNiuFileSystem.csproj", "{525FABF5-E4A7-4D16-BBCA-7AE8B637771C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12AB6781-15A1-44A0-AA1A-604EFA81DAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AB6781-15A1-44A0-AA1A-604EFA81DAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AB6781-15A1-44A0-AA1A-604EFA81DAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AB6781-15A1-44A0-AA1A-604EFA81DAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525FABF5-E4A7-4D16-BBCA-7AE8B637771C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525FABF5-E4A7-4D16-BBCA-7AE8B637771C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525FABF5-E4A7-4D16-BBCA-7AE8B637771C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525FABF5-E4A7-4D16-BBCA-7AE8B637771C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
